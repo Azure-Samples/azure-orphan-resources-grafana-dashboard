@@ -1,3 +1,14 @@
+---
+page_type: sample
+languages:
+- json
+products:
+- azure
+name:  Azure Orphan Resources Grafana Dashboard
+description: This Grafana dashboard offers a centralized view of Azure orphan resources that can be safely removed to reduce the overall cost of owning your Azure subscriptions.
+urlFragment: azure-orphan-resources-grafana-dashboard
+---
+
 # Azure Orphan Resources Grafana Dashboard
 
 In cloud computing, it is crucial to follow best practices when building a reliable, high-performing, and secure environment. However, it is equally important to implement a strategy aimed at reducing the total cost of ownership. In this context, this Grafana dashboard offers a centralized view of Azure orphan resources that can be safely removed. By identifying and removing these unnecessary resources, you can effectively decrease the overall cost associated with maintaining their Azure subscriptions and increase the operational efficiency.
